@@ -1,0 +1,10 @@
+C:\Users\binad\source\repos\NDP_Odev\bin\Debug\NDP_Odev.exe.config
+C:\Users\binad\source\repos\NDP_Odev\bin\Debug\NDP_Odev.exe
+C:\Users\binad\source\repos\NDP_Odev\bin\Debug\NDP_Odev.pdb
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.csproj.AssemblyReference.cache
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.Form1.resources
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.Properties.Resources.resources
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.csproj.GenerateResource.cache
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.csproj.CoreCompileInputs.cache
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.exe
+C:\Users\binad\source\repos\NDP_Odev\obj\Debug\NDP_Odev.pdb
